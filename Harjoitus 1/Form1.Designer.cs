@@ -50,6 +50,7 @@
             this.OtsikkoLB.Size = new System.Drawing.Size(38, 15);
             this.OtsikkoLB.TabIndex = 1;
             this.OtsikkoLB.Text = "label1";
+            this.OtsikkoLB.Click += new System.EventHandler(this.OtsikkoLB_Click);
             // 
             // Form1
             // 
